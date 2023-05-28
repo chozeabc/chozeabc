@@ -1,14 +1,14 @@
 <h1>Hi, I'm , captivated by the endless possibilities of <a href="https://linkedin.com/in/">IT</a></h1>
 
-<h2>Information Technology Projects:</h2>
+<h2>Notable IT Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/)
-  - [osTicket: Post-Installation Configuration](https://github.com/)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/)
+  - [osTicket: Prerequisites and Installation](https://github.com/chozeabc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/chozeabc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/chozeabc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/chozeabc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chozeabc/azure-network-protocols)
 
 <h2>Linkedin:</h2>
 
