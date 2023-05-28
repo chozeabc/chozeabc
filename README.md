@@ -3,7 +3,7 @@
 <h2>Notable IT Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/chozeabc/osticket-prereqs)
+  - [Step-by-Step Guide: Creating a Virtual Machine in Azure and Setting Up osTicket](https://github.com/chozeabc/Setting-Up-osTicket)
   - [osTicket: Post-Installation Configuration](https://github.com/chozeabc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/chozeabc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
