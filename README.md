@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Step-by-Step Guide: Creating a Virtual Machine in Azure and Setting Up osTicket](https://github.com/chozeabc/Setting-Up-osTicket)
   - [osticket Setup and Configuration Guide](https://github.com/chozeabc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/chozeabc/ticket-lifecycle)
+  
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/chozeabc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chozeabc/azure-network-protocols)
