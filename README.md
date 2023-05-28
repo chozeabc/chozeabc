@@ -8,7 +8,7 @@
   
 - <b>Microsoft Azure</b>
   - [Setting Up Azure Resources, Active Directory, and User Accounts (Azure)](https://github.com/chozeabc/Setting-Up-Azure-Active-Directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chozeabc/azure-network-protocols)
+  - [Azure Virtual Machines Setup and Network Traffic Analysis Guide](https://github.com/chozeabc/azure-network-protocols)
 
 <h2>Linkedin:</h2>
 
