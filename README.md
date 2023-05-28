@@ -7,7 +7,7 @@
   - [osticket Setup and Configuration Guide](https://github.com/chozeabc/post-install-config)
   
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/chozeabc/configure-ad)
+  - [osticket Setup and Configuration Guide](https://github.com/chozeabc/Setting-Up-Azure-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chozeabc/azure-network-protocols)
 
 <h2>Linkedin:</h2>
