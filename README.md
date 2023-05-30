@@ -14,7 +14,7 @@
 
 - <b>osTicket Virtual Machine Setup (Help Desk Ticketing System)</b>
   - [chozeabc.github.io](https://github.com/chozeabc/chozeabc.github.io)
-  - [osticket Setup and Configuration Guide](https://github.com/chozeabc/post-install-config)
+  - [Python Word Frequency Project](https://github.com/chozeabc/Word-Frequency-Project)
 
 <h2>Linkedin:</h2>
 
