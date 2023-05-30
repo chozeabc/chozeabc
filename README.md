@@ -10,7 +10,7 @@
   - [Setting Up Azure Resources, Active Directory, and User Accounts (Azure)](https://github.com/chozeabc/Setting-Up-Azure-Active-Directory)
   - [Azure Virtual Machines Setup and Network Traffic Analysis Guide](https://github.com/chozeabc/azure-network-protocols)
 
-<h2>Notable IT Projects:</h2>
+<h2>Other Projects (NOT IT):</h2>
 
 - <b>osTicket Virtual Machine Setup (Help Desk Ticketing System)</b>
   - [Step-by-Step Guide: Creating a Virtual Machine in Azure and Setting Up osTicket](https://github.com/chozeabc/Setting-Up-osTicket)
