@@ -4,11 +4,11 @@
 
 - <b>osTicket Virtual Machine Setup (Help Desk Ticketing System)</b>
   - [Step-by-Step Guide: Creating a Virtual Machine in Azure and Setting Up osTicket](https://github.com/jameizie-it/Setting-Up-osTicket)
-  - [osticket Setup and Configuration Guide](https://github.com/jameizie-it/post-install-config)
+  - [osticket Setup and Configuration Guide](https://github.com/jameizie-it/osticket-Setup-and-Configuration-Guide)
   
 - <b>Azure Resource Setup and Management</b>
   - [Setting Up Azure Resources, Active Directory, and User Accounts (Azure)](https://github.com/jameizie-it/Setting-Up-Azure-Active-Directory)
-  - [Azure Virtual Machines Setup and Network Traffic Analysis Guide](https://github.com/jameizie-it/azure-network-protocols)
+  - [Azure Virtual Machines Setup and Network Traffic Analysis Guide](https://github.com/jameizie-it/Azure-Virtual-Machines-Setup-and-Network-Traffic-Analysis-Guide)
 
 <h2>Other Projects (NOT IT):</h2>
 
