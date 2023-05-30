@@ -13,7 +13,7 @@
 <h2>Other Projects (NOT IT):</h2>
 
 - <b>osTicket Virtual Machine Setup (Help Desk Ticketing System)</b>
-  - [Step-by-Step Guide: Creating a Virtual Machine in Azure and Setting Up osTicket](https://github.com/chozeabc/Setting-Up-osTicket)
+  - [chozeabc.github.io](https://github.com/chozeabc/chozeabc.github.io)
   - [osticket Setup and Configuration Guide](https://github.com/chozeabc/post-install-config)
 
 <h2>Linkedin:</h2>
