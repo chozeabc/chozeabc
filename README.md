@@ -12,7 +12,7 @@
 
 <h2>Other Projects (NOT IT):</h2>
 
-- <b>osTicket Virtual Machine Setup (Help Desk Ticketing System)</b>
+- <b>Non-IT Projects</b>
   - [chozeabc.github.io](https://github.com/chozeabc/chozeabc.github.io)
   - [Python Word Frequency Project](https://github.com/chozeabc/Word-Frequency-Project)
 
