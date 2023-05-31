@@ -13,7 +13,7 @@
 <h2>Other Projects (NOT IT):</h2>
 
 - <b>Non-IT Projects</b>
-  - [chozeabc.github.io](https://github.com/jameizie-it/chozeabc.github.io)
+  - [jameizie-it.github.io](https://github.com/jameizie-it/jameizie-it.github.io)
   - [Python Word Frequency Project](https://github.com/jameizie-it/Word-Frequency-Project)
 
 <h2>Linkedin:</h2>
